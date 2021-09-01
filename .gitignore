@@ -1,0 +1,4 @@
+tournaments/*.csv
+results/*.csv
+DatabaseJS/*.js
+pokedexDatabase.db
